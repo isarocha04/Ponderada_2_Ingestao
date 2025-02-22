@@ -1,6 +1,6 @@
 #  Ingestão de dados no Supabase
 
-Este projeto implementa um sistema de ingestão de dados que busca informações do Pokémon Flabébé na PokéAPI e insere esses dados no Supabase. O projeto utiliza Python, Poetry e Pytest para garantir uma implementação organizada e testável.
+O projeto implementa um sistema de ingestão de dados que busca informações do Pokémon Flabébé na PokéAPI e insere esses dados no Supabase. O projeto utiliza Python, Poetry e Pytest para garantir uma implementação organizada e testável.
 
 ## Estrutura do Projeto
 
